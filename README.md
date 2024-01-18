@@ -1,6 +1,6 @@
 # Project: Extract, Transform, and Load GDP Data
 
-## Used Libraries and Framework
+## Library and Framework
 
 - **requests:** Used for accessing information from the URL.
 - **bs4:** Containing the BeautifulSoup function used for web scraping.
